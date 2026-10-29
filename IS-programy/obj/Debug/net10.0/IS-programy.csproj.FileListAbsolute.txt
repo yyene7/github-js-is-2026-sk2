@@ -1,0 +1,15 @@
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\obj\Debug\net10.0\IS-programy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\obj\Debug\net10.0\IS-programy.AssemblyInfoInputs.cache
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\obj\Debug\net10.0\IS-programy.AssemblyInfo.cs
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\obj\Debug\net10.0\IS-programy.csproj.CoreCompileInputs.cache
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\obj\Debug\net10.0\IS-programy.sourcelink.json
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\bin\Debug\net10.0\IS-programy.exe
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\bin\Debug\net10.0\IS-programy.deps.json
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\bin\Debug\net10.0\IS-programy.runtimeconfig.json
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\bin\Debug\net10.0\IS-programy.dll
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\bin\Debug\net10.0\IS-programy.pdb
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\obj\Debug\net10.0\IS-programy.dll
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\obj\Debug\net10.0\refint\IS-programy.dll
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\obj\Debug\net10.0\IS-programy.pdb
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\obj\Debug\net10.0\IS-programy.genruntimeconfig.cache
+C:\Informace A Sys\github-js-is-2026-sk2\IS-programy\obj\Debug\net10.0\ref\IS-programy.dll
